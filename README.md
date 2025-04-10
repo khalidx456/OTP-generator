@@ -42,12 +42,5 @@ By combining something the user knows (password) with something they have (OTP),
 
 # No Dependency on Static Passwords:
 OTP authentication reduces the reliance on static passwords, which are often weak, reused across multiple services, and prone to data breaches
-This reduces the impact of password-related attacks.
-
-# installation commands(Termux):
- ls
- cd OTP-generator/
- ls
- chmod +x otp-generator.py
- python otp-generator.py
+This reduces the impact of password-related.
 
