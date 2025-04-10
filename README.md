@@ -45,5 +45,10 @@ OTP authentication reduces the reliance on static passwords, which are often wea
 This reduces the impact of password-related attacks.
 
 # installation commands(Termux):
-
+ls
+cd OTP-generator/
+ls
+chmod +x otp-generator.py
+python otp-generator.py
+<!-----completed------!>
 
