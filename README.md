@@ -14,3 +14,7 @@
   5. chmod +x OTP-generator.py <br>
   6. python OTP-generator.py
 </div>
+<div>
+  <h2>Run Time</h2>
+  <
+</div>
